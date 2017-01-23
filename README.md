@@ -7,15 +7,15 @@
 
 ## Core libraries and systems
 
-# Firebase
-# React
-# Re-base
-# Sensible
-# Dialog
-# Bonescss
+* Firebase
+* React
+* Re-base
+* Zeit Next
+* Zeit Now
 
 ## Methodologies
 
-* Clean Code Principles ([Read the book](http://www.goodreads.com/book/show/3735293-clean-code) and [read this summary of Clean Code adapted to Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-* [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript)
-* [Containers and components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0#.w8t47qq2a)
+* Clean Code Principles - [Read the book](http://www.goodreads.com/book/show/3735293-clean-code) & [read this summary](https://github.com/ryanmcdermott/clean-code-javascript)
+* The base repository and all repositories that extend it must use the [Airbnb style guide](https://github.com/airbnb/javascript) & it's linter without overrides
+* Other repositories must use a documented code style guide & it's linter without overrides
+* Test coverage on master branch must be 100%
